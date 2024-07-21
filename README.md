@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melisa Altan.</h1>
 <h3 align="center">Mechanical Engineering Student at ITU</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif">
 
 - 🔭 I’m currently working on **battery systems.**
 
